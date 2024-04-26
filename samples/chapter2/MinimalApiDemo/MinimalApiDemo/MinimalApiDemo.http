@@ -4,3 +4,5 @@ GET {{MinimalApiDemo_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+GET {{MinimalApiDemo_HostAddress}}/posts/
+Accept: application/json
